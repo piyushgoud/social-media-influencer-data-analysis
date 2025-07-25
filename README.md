@@ -51,7 +51,7 @@ Future expansion (optional):
  2.  Install requirements (if using virtual environment):
      pip install pandas numpy
 
-Output includes:
+## Output includes:
 
 Overall campaign KPIs
 
@@ -60,6 +60,57 @@ Daily revenue/payout summary
 Top influencers by revenue, ROI, and engagement
 
 Filtered example: Instagram + Sports influencers
+
+
+📁 Project Structure
+bash
+Copy
+Edit
+📦 social-media-influencer-data-analysis/
+├── healthkart_roi_dashboard.py   # Main dashboard script
+├── README.md                     # Project documentation
+├── LICENSE                       # MIT License
+📌 Example Output
+markdown
+Copy
+Edit
+--- Overall Campaign Performance ---
+Total Revenue: $2,438,941.25
+Total Payout: $314,850.50
+ROI: 674.99%
+ROAS: 7.75x
+
+--- Top Influencers by Revenue ---
+1. Cristiano Ronaldo | Instagram | $430,000
+2. MrBeast           | YouTube   | $380,000
+...
+
+--- Top by ROI ---
+1. Khaby Lame (TikTok) | ROI: 1500%
+...
+📈 Future Improvements
+📊 Add visual charts (revenue trends, ROI heatmaps)
+
+🌐 Build interactive dashboard with Streamlit or Dash
+
+📤 Export results to CSV/Excel
+
+📅 Add multi-campaign timelines
+
+🧠 Author
+Piyush Goud
+📧 Email: piyushgoud203@gmail.com
+🔗 LinkedIn
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+yaml
+Copy
+Edit
+
+---
+
 
 
 
