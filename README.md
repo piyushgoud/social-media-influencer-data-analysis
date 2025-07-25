@@ -1,4 +1,4 @@
-# 💼 HealthKart Influencer ROI Tracker
+# 💼 Social Media Influencer ROI Tracker
 
 This project simulates and analyzes influencer marketing performance using synthetic data for HealthKart's campaigns across multiple platforms (Instagram, YouTube, TikTok). The goal is to evaluate influencer ROI, ROAS, engagement, and payout efficiency using a clean, modular Python framework.
 
