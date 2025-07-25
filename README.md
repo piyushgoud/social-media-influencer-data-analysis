@@ -45,5 +45,28 @@ Future expansion (optional):
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/yourusername/healthkart-influencer-roi.git
-   cd healthkart-influencer-roi
+   git clone https://github.com/piyushgoud/social-media-influencer-data-analysis.git
+
+
+ 2.  Install requirements (if using virtual environment):
+     pip install pandas numpy
+
+Output includes:
+
+Overall campaign KPIs
+
+Daily revenue/payout summary
+
+Top influencers by revenue, ROI, and engagement
+
+Filtered example: Instagram + Sports influencers
+
+
+
+
+
+
+
+
+
+
